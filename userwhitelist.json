@@ -1,0 +1,19 @@
+{
+  "releaseCoordinators": [
+    "Mayank77maruti-01",
+    "Fgrdxgu"
+  ],
+  "goodFirstIssue": [
+    "Fgrdxgu",
+    "kslwouer"
+  ],
+  "teamLeads": {
+    "onboardingTeam": "DubeySandeep",
+    "releaseTeam": "vojtechjelinek",
+    "welfareTeam": "DubeySandeep"
+  },
+  "oppiaMaintainers": "oppia/core-maintainers",
+  "oppiaReleaseCoordinators": "oppia/release-coordinators",
+  "oppiaDevWorkflowTeam": "oppia/dev-workflow-team",
+  "serverJobAdmins": ["Mayank77maruti-01","kslwouer"]
+}
